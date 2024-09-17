@@ -2,6 +2,14 @@
 
 Game Hub is a modern web application built with React that allows users to browse and explore video games. It features a responsive design, dynamic game listings, and various filtering and sorting options.
 
+## Live Demo
+
+Experience Game Hub in action! The application is deployed and accessible at:
+
+[https://game-hub-lovat-seven.vercel.app/](https://game-hub-lovat-seven.vercel.app/)
+
+This live version showcases all the features of Game Hub, allowing you to explore a vast collection of games, filter by genres and platforms, and discover new titles. The deployment on Vercel ensures fast loading times and a smooth user experience. Feel free to interact with the app, search for your favorite games, and explore the intuitive interface.
+
 ## Features
 
 - Browse a vast collection of video games
